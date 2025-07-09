@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZzcPMnavik=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
