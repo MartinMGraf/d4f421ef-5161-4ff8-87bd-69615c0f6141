@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1.csproj": {}
+    "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1.csproj": {
+    "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\obj\\",
+        "outputPath": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
