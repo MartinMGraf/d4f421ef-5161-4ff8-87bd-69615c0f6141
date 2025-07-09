@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7559456C-3148-4548-8D6B-77C7DFA43E5D}|WebApplication1.csproj|c:\\users\\martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\repository.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7559456C-3148-4548-8D6B-77C7DFA43E5D}|WebApplication1.csproj|solutionrelative:repository.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "repository.yaml",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\repository.yaml",
+              "RelativeDocumentMoniker": "repository.yaml",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\d4f421ef-5161-4ff8-87bd-69615c0f6141\\repository.yaml",
+              "RelativeToolTip": "repository.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-09T21:25:55.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
