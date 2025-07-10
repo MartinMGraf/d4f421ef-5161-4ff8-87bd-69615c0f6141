@@ -9,4 +9,3 @@ arch:
   - armhf
   - armv7
   - i386
-image: "docker:24.0.7-cli"
